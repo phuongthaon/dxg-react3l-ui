@@ -1,7 +1,7 @@
 {
-  "name": "dxg-react3l-ui-library",
+  "name": "dxg-ui-library",
   "sideEffects": false,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "build/index.js",
   "files": [
     "build"
